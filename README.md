@@ -10,7 +10,7 @@ Clone this repository using:
 
 `git clone https://github.com/tesa-klebeband/ESP32-Ti-Link.git`
 
-### Adapter setup:
+### Adapter setup
 1. Strip the insulation of a 2.5mm cable or solder wires to a 2.5mm plug
 2. Connect the ground or shield of the cable to the ESP32's GND pin
 3. Connect the tip wire to pin 23, or specify your own by changing the TIP definition in main.cpp
@@ -20,7 +20,7 @@ Clone this repository using:
 7. Open the repository in vscode
 8. Connect the ESP32 and upload the code
 
-### Software setup:
+### Software setup
 1. Download and install TiConnect
 2. Connect the calculator to the ESP32 with the 2.5mm plug
 3. Connect the ESP32 to your computer and start the TiConnect software
